@@ -8,27 +8,27 @@
       "download",
       "bot"
     ],
-    "repository": "https://github.com/subinps/Instagram-Bot",
+    "repository": "https://github.com/EpicBotSl/Instagram-Dl",
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": ""
+        "value": "16884543"
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": ""
+        "value": "cc4535cefe1fa2e167d75a5e2ac24246"
       },
       "BOT_TOKEN": {
         "description": "Your bot token from @BotFather",
-        "value": ""
+        "value": "5597257921:AAGi0GcCXXNEEwlEzFguPwgBKocAe0Bw_X8"
       },
       "OWNER_ID": {
         "description": "Enter Your Telegram id",
-        "value": ""
+        "value": "5196689118"
       },
       "INSTAGRAM_USERNAME": {
         "description": "Enter your Instagram Username without @ , Example: samantharuthprabhuoffl",
-        "value": ""
+        "value": "navanjana_sathsindu"
       },
       "INSTA_SESSIONFILE_ID": {
         "description": "Read README in GitHub",
